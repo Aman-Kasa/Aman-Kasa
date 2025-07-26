@@ -9,6 +9,8 @@
 ░██    ░██ ░██       ░██ ░██    ░██ ░██    ░███         ░██     ░██ ░██    ░██   ░██████   ░██    ░██ 
 ```
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=077D37&width=435&lines=%3E%3EWelcome+To+My+Gihub+Profile+!;%3E%3Euser%40+ema-kasa;%3E%3E+Passionate+Software+engineer+;%3E%3E%3E+Hello%2C+World.+I+am+Aman+Kasa.)](https://git.io/typing-svg)
+![matrix1](https://gifdb.com/images/high/hackers-matrix-coding-4gtz6lwrja1y76g1.webp)
+
 ### 🛠️ Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
@@ -18,8 +20,7 @@
 
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman-Kasa&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Kasa&layout=compact)
-
-![matrix-1 time](https://gifdb.com/images/high/hackers-matrix-coding-4gtz6lwrja1y76g1.webp) 
+![linux](https://media.tenor.com/S61VCO73mOAAAAAi/linux-tux.gif)
 
                                                                                                  
                                                                                                  
