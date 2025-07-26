@@ -22,6 +22,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Kasa&layout=compact)
 ![linux](https://media.tenor.com/S61VCO73mOAAAAAi/linux-tux.gif)
 ![snake gif](https://github.com/Aman-Kasa/Aman-Kasa/blob/output/github-contribution-grid-snake.svg)
+![snake raw linkgif](https://raw.githubusercontent.com/Aman-Kasa/Aman-Kasa/output/github-contribution-grid-snake.svg)
+![snake another raw gif](https://raw.githubusercontent.com/Aman-Kasa/Aman-Kasa/output/github-contribution-grid-snake.svg)
 
                                                                                                  
                                                                                                  
