@@ -21,6 +21,7 @@
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman-Kasa&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Kasa&layout=compact)
 ![linux](https://media.tenor.com/S61VCO73mOAAAAAi/linux-tux.gif)
+![snake gif](https://github.com/Aman-Kasa/Aman-Kasa/blob/output/github-contribution-grid-snake.svg)
 
                                                                                                  
                                                                                                  
