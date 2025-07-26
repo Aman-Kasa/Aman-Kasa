@@ -8,7 +8,7 @@
 ░██    ░██ ░██       ░██ ░██    ░██ ░██   ░████         ░██    ░██  ░██    ░██  ░██   ░██  ░██    ░██ 
 ░██    ░██ ░██       ░██ ░██    ░██ ░██    ░███         ░██     ░██ ░██    ░██   ░██████   ░██    ░██ 
 ```
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=077D37&width=435&lines=%3E%3EWelcome+To+My+Gihub+Profile+!;%3E%3Euser%40+ema-kasa;%3E%3E+Passionate+Software+engineer+;%3E%3E%3E+Hello%2C+World.+I+am+Aman+Kasa.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=077D37&width=435&lines=%3E%3EWelcome+To+My+Gihub+Profile+!;%3E%3E%3E+Hello%2C+World.+I+am+Aman+Kasa;%3E%3Euser%40+ema-kasa;%3E%3E+Passionate+Software+engineer+;.)](https://git.io/typing-svg)
 ![matrix1](https://gifdb.com/images/high/hackers-matrix-coding-4gtz6lwrja1y76g1.webp)
 
 ### 🛠️ Languages and Tools
