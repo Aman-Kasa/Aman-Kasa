@@ -30,10 +30,10 @@
                                                                                                  
 
 
-- 👀 I’m interested in Embedded Systems programming
-- 🌱 I’m currently learning software engineering
-- 《♡》 I’m looking to collaborate on Web Enterprise, blockchain & Embedded systems(microcontollers).
-- 📫 How to reach me a.kasa@alustudent.com  +250798694600
+- 👀 I’m interested in Systems and Embedded Security Engineering |Industrial, Infrastructure, IOT, Firmware|
+- 🌱 I’m currently learning Hardware Security
+- 《♡》 I’m looking to collaborate on Blockchain Systems Design & Architucture.
+- 📫 How to reach me =  a.kasa@alustudent.com ||| +250798694600
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My favorite programming language? The one I’m learning next!
 
