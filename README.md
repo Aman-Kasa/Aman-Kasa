@@ -20,8 +20,7 @@
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman-Kasa&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Kasa&layout=compact)
+
 ![linux](https://media.tenor.com/S61VCO73mOAAAAAi/linux-tux.gif)
 
                                                                                                  
