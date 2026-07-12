@@ -21,7 +21,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 
 
-![linux](https://media.tenor.com/S61VCO73mOAAAAAi/linux-tux.gif)
 
                                                                                                  
                                                                                                  
