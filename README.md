@@ -15,12 +15,6 @@
 
 ### 🛠️ Languages and Tools
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-
-
 
                                                                                                  
                                                                                                  
