@@ -19,12 +19,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Neovim & POP!_OS BTW
 
+---
 
+
+---
 -- 📫 How to reach me =  aman.abraha.kasa@gmail.com ||| +250798694600
-
-
----
-
-
----
-*⚡ Fun fact: My favorite programming language is always the one I’m learning next!*
