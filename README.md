@@ -35,6 +35,8 @@ I am a **Systems and Embedded Security Engineering** enthusiast, focused on the 
   <img src="https://img.shields.io/badge/Hardware_Security-E65100?style=for-the-badge&logo=shield" alt="HardwareSec" />
   <img src="https://img.shields.io/badge/Blockchain-1C01F0?style=for-the-badge&logo=blockchain" alt="Blockchain" />
   <img src="https://img.shields.io/badge/Firmware-00599C?style=for-the-badge&logo=c" alt="Firmware" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor="white" />
+  <img src ="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor="black" />
 </p>
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
