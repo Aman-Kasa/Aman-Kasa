@@ -19,3 +19,33 @@
 - 📫 How to reach me =  a.kasa@alustudent.com ||| +250798694600
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My favorite programming language? The one I’m learning next!
+
+
+
+
+# Hi, I'm A. Kasa! 👋
+
+I am a **Systems and Embedded Security Engineering** enthusiast, focused on the intersection of Hardware Security, Firmware, and resilient Infrastructure. I am currently deep-diving into the hardware side of security, bridging the gap between low-level architecture and robust systems design.
+
+---
+
+### 🛠 Tech Stack & Interests
+<p align="left">
+  <img src="https://img.shields.io/badge/Embedded_Systems-000?style=for-the-badge&logo=c" alt="Embedded" />
+  <img src="https://img.shields.io/badge/Hardware_Security-E65100?style=for-the-badge&logo=shield" alt="HardwareSec" />
+  <img src="https://img.shields.io/badge/Blockchain-1C01F0?style=for-the-badge&logo=blockchain" alt="Blockchain" />
+  <img src="https://img.shields.io/badge/Firmware-00599C?style=for-the-badge&logo=c" alt="Firmware" />
+</p>
+
+### 🤝 Let's Collaborate
+I am currently looking to collaborate on:
+* **Blockchain Systems Design & Architecture:** Specifically interested in how DLT intersects with embedded security and IoT trust.
+* **Hardware Security Research:** Open to projects involving side-channel analysis, secure boot, or tamper-resistance.
+
+### 📫 Contact & Connect
+* **Email:** [a.kasa@alustudent.com](mailto:a.kasa@alustudent.com)
+* **Phone:** +250 798 694 600
+* **Pronouns:** He/Him
+
+---
+*⚡ Fun fact: My favorite programming language is always the one I’m learning next!*
