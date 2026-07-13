@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=1000&pause=10000&color=5CCA38&background=000000&center=true&width=700&height=100&lines=Welcome+To+My+Cyber+Domain)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=1000&pause=10000&color=74FF47&center=true&width=700&height=100&lines=Welcome+To+My+Cyber+Domain)](https://git.io/typing-svg)
 ![matrix1](https://gifdb.com/images/high/hackers-matrix-coding-4gtz6lwrja1y76g1.webp)
 
 
