@@ -23,5 +23,5 @@
 
 
 ---
--- 📫 How to reach me =  aman.abraha.kasa@gmail.com ||| +250798694600   <img width="2212" height="2571" alt="image" src="https://github.com/user-attachments/assets/e490d2a3-2aec-43bc-9072-7ab224f1e3ed" />
+-- 📫 How to reach me =  aman.abraha.kasa@gmail.com ||| +250798694600   <img width="317" height="317" alt="image" src="https://github.com/user-attachments/assets/e490d2a3-2aec-43bc-9072-7ab224f1e3ed" />
 
